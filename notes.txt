@@ -1,1 +1,10 @@
-23:58
+npm install next-superjson-plugin
+
+swcPlugins: [
+    ["next-superjson-plugin", {}]
+] in experimental in nextConfig
+
+
+
+
+4:52
